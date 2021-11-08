@@ -2146,7 +2146,8 @@ margin-top: 4px;
     display: block;
      color: #fff;
      font-size: 17px;
-     padding-left: 16px;
+     p
+     ding-left: 16px;
      margin-top: -34px;
 }
  ul.Links_footer li a:hover{
@@ -2158,7 +2159,6 @@ margin-top: 4px;
 }
  
  
-
  .hhh {
     margin-bottom: 15px;
 }
@@ -2185,7 +2185,7 @@ padding-top: 15px;
 padding-bottom: 3px;
 border-bottom: #3e7f21 solid 4px;
 margin-bottom: 20px;
-width: 226px;
+width: 250px;
  }
 .address img {padding-bottom: 10px;}
 
