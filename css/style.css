@@ -451,6 +451,7 @@ background-position: center center;
 }
 
 nav.main-menu {
+     margin-top: 25px;
      float: right;
      margin-left: 0;
 }
@@ -2177,6 +2178,14 @@ margin-top: 4px;
      box-shadow: inherit;
      border-radius: 10px;
 }
+
+/*-------Incluido------------*/
+
+ .address{width: 330px;}
+ .address .loca  img {margin-right:  0px;}
+
+ /*-------------------------*/
+
  .address  h3 {
 color: #fff;
 font-size: 29px;
@@ -2189,9 +2198,10 @@ width: 250px;
  }
 .address img {padding-bottom: 10px;}
 
+
  .address p {
      color: #fff;
-     padding-bottom: 20px;
+     padding-bottom: 10px;
      font-size: 18px;
 line-height: 30px;}
  .form-control:focus, .form-control:hover {
