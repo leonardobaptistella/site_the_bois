@@ -438,7 +438,7 @@ a.readmore_bt {
 .header {
      font-family: poppins;
      padding: 10px 0px;
-    background: #36a328;
+    background: #052501;
      background-repeat: no-repeat;
 background-size: 100% 100%;
 background-position: center center;
@@ -1842,6 +1842,11 @@ border-radius: 18px;
 
 
 /** for_box **/
+.for_box_bg img{
+     max-width:100px;
+     width: auto;
+     height: auto;
+}
 .for_box_bg {
      background: #052501;
       padding: 70px 0px;
@@ -2054,6 +2059,7 @@ transform: skew(190deg);
 .map_section {
     border-top: #052501 solid 6px;
 }
+.map_section figure {float: left;}
 #map {
     height: 100%;
     min-height: 670px;
